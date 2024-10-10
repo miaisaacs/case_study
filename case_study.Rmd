@@ -1,0 +1,24 @@
+---
+title: "Case Study"
+author: "Mia Isaacs"
+date: "2024-10-10"
+output: github_document
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
